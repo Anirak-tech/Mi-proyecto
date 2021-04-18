@@ -1,0 +1,4 @@
+Para garantizar la estabilidad y confidencialidad, el sistema establece sobre cada fichero o carpeta:
+ tres tipos de permisos de acceso, lectura (r), escritura (w) y ejecución (x). 
+Por otra parte cada archivo o carpeta pertenece a alguien, es decir, 
+tiene un propietario que suele ser el que lo creó.
